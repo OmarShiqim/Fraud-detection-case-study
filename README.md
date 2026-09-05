@@ -52,7 +52,6 @@ costs of false alarms vs. missed fraud are measured from live data.
 ## Repository Contents
 
 - `fraud_detection_case_study.ipynb` — full analysis and modeling notebook
-- `fraud.csv` — dataset
 
 ## How to Run
 
